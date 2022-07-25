@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nirsha123
-- 👀 I’m interested in python open source projects.
+- 👀 I’m interested in full stack python/js open source projects.
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me @blackssnake on TG.
